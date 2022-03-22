@@ -13,3 +13,5 @@ docstring-parser
 chevron
 onnxruntime
 skl2onnx
+finbourne-access-sdk
+finbourne-identity-sdk
