@@ -7,6 +7,9 @@ pytz
 numpy
 requests
 lusidtools
+dve-lumipy-preview
 lusid-jam
 docstring-parser
 chevron
+onnxruntime
+skl2onnx
